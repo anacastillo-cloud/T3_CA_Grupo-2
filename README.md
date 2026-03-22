@@ -1,5 +1,18 @@
 # APP PARA PEDIR COMIDA
 
+## Integrantes Grupo #2:
+
+| Carnet | Nombre |
+|--------------|--------------|
+| 202505428 | Jaqueline Gabriela Ovalle Aceituno |
+| 202505902 | Ana Isabel Castillo López |
+| 202504693 | Hasel Abigail Girón Urbina |
+| 202504845 | Ixchel Panjoj García|
+| 202504086 | Raí Jossimar Barrios García |
+| 202501861 | Nataneli Ayeleth Hashajar Cajbón Sabán |
+
+Link del Gist de la ultima persona editó el documento:
+
 https://gist.github.com/rb0205G/2f74c953ed2dc02e040d3e1340a43d6b
 
 ---
