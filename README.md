@@ -22,7 +22,7 @@ https://gist.github.com/rb0205G/2f74c953ed2dc02e040d3e1340a43d6b
 | SERVIDOR | Es una computadora o sistema que recibe las solicitudes de la aplicación, procesa los pedidos y envía la información entre el cliente y la base de datos. | Es como el mesero del restaurante, que toma tu pedido, lo lleva a cocina y luego te trae la comida. Sin él, la comunicación no funcionaría. |
 | SISTEMA EN LA NUBE | Es una tecnología que permite que la aplicación funcione en internet sin depender de una sola computadora física, permitiendo acceso desde cualquier lugar y en cualquier momento. | Es como tener el restaurante abierto en todos lados al mismo tiempo, donde puedes recibir pedidos desde cualquier lugar, sin importar si estás en el local o no. |
 
-![app comida](https://github.com/user-attachments/assets/32bc5179-2b07-4390-96c6-419c7be9ca01)
+<img src = "https://images.squarespace-cdn.com/content/v1/61388709f609a64f1cf13454/e5a3a472-6f29-4dcf-99a4-aac5a15eaa43/47.jpg" width = "500" height = "600">
 
 ---
 ---
